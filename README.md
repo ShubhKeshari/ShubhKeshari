@@ -1,4 +1,4 @@
-[![Banner](https://github.com/ShubhKeshari/ShubhKeshari/blob/masters/Blue%20Modern%20Marketing%20Manager%20LinkedIn%20Banner.gif)](https://your-link.com)
+[![Banner](https://github.com/ShubhKeshari/ShubhKeshari/blob/masters/Blue%20Modern%20Marketing%20Manager%20LinkedIn%20Banner%20(1).gif)](https://your-link.com)
 <h1 align="center">Hi 👋, I'm Shubham</h1>
 <h3 align="center">A dedicated full stack web developer passionate about building dynamic and user-friendly applications, experienced in front-end and back-end technologies. Thrives on continuous learning and innovation in web development.</h3>
 
