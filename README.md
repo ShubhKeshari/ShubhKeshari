@@ -38,7 +38,7 @@ Connect with me on LinkedIn to learn more about my professional background and s
 <br/>
   <img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="chakra-ui"/>
   <img src = "https://img.shields.io/badge/bootstrap-%238512F3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" align="center" alt="bootstrap"/>
-  <img src = "https://img.shields.io/badge/tailwind-%234ED1C5.svg?style=for-the-badge&logo=tailwind&logoColor=white" align="center" alt="tailwind"/>
+  <img src = "https://img.shields.io/badge/tailwindcss-%2338BDF8.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" align="center" alt="tailwindcss"/>
   <img src = "https://img.shields.io/badge/sass-%23C66394.svg?style=for-the-badge&logo=sass&logoColor=white" align="center" alt="sass"/>
  
   
