@@ -1,11 +1,18 @@
 [![Banner](https://github.com/ShubhKeshari/ShubhKeshari/blob/masters/Blue%20Modern%20Marketing%20Manager%20LinkedIn%20Banner%20(2).gif)](https://your-link.com)
- 
+
+<link href='https://fonts.googleapis.com/css?family=Unbounded' rel='stylesheet'>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="250"/><br>
+  <a href="https://www.linkedin.com/in/shubham0602">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a><br>
+  <img src="https://komarev.com/ghpvc/?username=ShubhKeshari&style=flat-square&color=yellow" alt="profile views" />
+</div>
+<hr>
 A dedicated full-stack web developer with over 1200+ consistent hrs of experience building dynamic and user-friendly applications. Strong background in  MERN stack, and always looking to learn and try new technologies.
 
 
 Connect with me on LinkedIn to learn more about my professional background and skills. Thanks for visiting! 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham0602)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhkeshari&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
 
@@ -36,7 +43,7 @@ Connect with me on LinkedIn to learn more about my professional background and s
 
 <br/>
 <br/>
-  <img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="chakra-ui"/>
+  <img src = "https://img.shields.io/badge/chakra ui-%233CC7BD.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="chakra-ui"/>
   <img src = "https://img.shields.io/badge/bootstrap-%238512F3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" align="center" alt="bootstrap"/>
   <img src = "https://img.shields.io/badge/tailwindcss-%2338BDF8.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" align="center" alt="tailwindcss"/>
   <img src = "https://img.shields.io/badge/sass-%23C66394.svg?style=for-the-badge&logo=sass&logoColor=white" align="center" alt="sass"/>
