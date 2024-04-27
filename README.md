@@ -55,6 +55,7 @@ Connect with me on LinkedIn to learn more about my professional background and s
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
   <img src="https://img.shields.io/badge/rest api-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="restapi"/>
+  <img src="https://img.shields.io/badge/MySQL-%23015B85?style=for-the-badge&logo=mysql&logoColor=white" align="center" alt="MySQL"/>
 </div>
   
   <div align="center"><h3 align="center">Tools</h3> 
