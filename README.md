@@ -1,8 +1,7 @@
 [![Banner](https://github.com/ShubhKeshari/ShubhKeshari/blob/masters/Blue%20Modern%20Marketing%20Manager%20LinkedIn%20Banner%20(2).gif)](https://your-link.com)
-<h2 align="center">
-  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm <a href="www.linkedin.com/in/shubham0602">Shubham 💻</a>!
-</h2>  
+ 
 A dedicated full-stack web developer with over 1200+ consistent hrs of experience building dynamic and user-friendly applications. Strong background in  MERN stack, and always looking to learn and try new technologies.
+
 
 Connect with me on LinkedIn to learn more about my professional background and skills. Thanks for visiting! 
 
@@ -38,9 +37,9 @@ Connect with me on LinkedIn to learn more about my professional background and s
 <br/>
 <br/>
   <img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="chakra-ui"/>
-  <img src = "https://img.shields.io/badge/bootstrap-%234ED1C5.svg?style=for-the-badge&logo=bootstrap&logoColor=white" align="center" alt="bootstrap"/>
-  <img src = "https://img.shields.io/badge/Tailwind-%234ED1C5.svg?style=for-the-badge&logo=Tailwind&logoColor=white" align="center" alt="Tailwind"/>
-  <img src = "https://img.shields.io/badge/sass-%234ED1C5.svg?style=for-the-badge&logo=sass&logoColor=white" align="center" alt="sass"/>
+  <img src = "https://img.shields.io/badge/bootstrap-%238512F3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" align="center" alt="bootstrap"/>
+  <img src = "https://img.shields.io/badge/tailwind-%234ED1C5.svg?style=for-the-badge&logo=tailwind&logoColor=white" align="center" alt="tailwind"/>
+  <img src = "https://img.shields.io/badge/sass-%23C66394.svg?style=for-the-badge&logo=sass&logoColor=white" align="center" alt="sass"/>
  
   
 </div>
