@@ -2,10 +2,10 @@
 <h2 align="center">
   Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm <a href="www.linkedin.com/in/shubham0602">Shubham 💻</a>!
 </h2>  
-
-Hi there! I'm a full-stack web developer with over 1200+ consistent hrs of experience building dynamic and responsive applications. I have a strong background in  MERN stack, and I'm always looking to learn and try new technologies.
+A dedicated full-stack web developer with over 1200+ consistent hrs of experience building dynamic and user-friendly applications. Strong background in  MERN stack, and always looking to learn and try new technologies.
 
 Connect with me on LinkedIn to learn more about my professional background and skills. Thanks for visiting! 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham0602)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhkeshari&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
@@ -23,7 +23,7 @@ Connect with me on LinkedIn to learn more about my professional background and s
  
 - 📄 Download my <a href= "https://drive.google.com/file/d/1Ox_X0asQEwNQ9TX1wuSxrPZIVCuVlKpl/view?usp=drive_link" target="_target">Resume</a>
 
--portFolio Link :<a href="https://drive.google.com/file/d/1Ox_X0asQEwNQ9TX1wuSxrPZIVCuVlKpl/view?usp=drive_link" target="_blank"> Portfolio</a>
+- 👨‍💻 PortFolio <a href="https://drive.google.com/file/d/1Ox_X0asQEwNQ9TX1wuSxrPZIVCuVlKpl/view?usp=drive_link" target="_blank"> Portfolio</a>
 
 <h2>🥇 Technical Skills:  </h2>  
 
@@ -38,9 +38,9 @@ Connect with me on LinkedIn to learn more about my professional background and s
 <br/>
 <br/>
   <img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="chakra-ui"/>
-  <img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=bootstrap&logoColor=white" align="center" alt="bootstrap"/>
-  <img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=tailwind&logoColor=white" align="center" alt="tailwind"/>
-  <img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=sass&logoColor=white" align="center" alt="sass"/>
+  <img src = "https://img.shields.io/badge/bootstrap-%234ED1C5.svg?style=for-the-badge&logo=bootstrap&logoColor=white" align="center" alt="bootstrap"/>
+  <img src = "https://img.shields.io/badge/Tailwind-%234ED1C5.svg?style=for-the-badge&logo=Tailwind&logoColor=white" align="center" alt="Tailwind"/>
+  <img src = "https://img.shields.io/badge/sass-%234ED1C5.svg?style=for-the-badge&logo=sass&logoColor=white" align="center" alt="sass"/>
  
   
 </div>
@@ -63,7 +63,7 @@ Connect with me on LinkedIn to learn more about my professional background and s
    <br/>
 <br/>
    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" align="center" alt="slack"/>
-    <img src='https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white' align='center' alt='storybook' />
+    
    <br/>
 <br/>
   </div>
