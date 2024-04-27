@@ -14,7 +14,6 @@ A dedicated full-stack web developer with over 1200+ consistent hrs of experienc
 
 Connect with me on LinkedIn to learn more about my professional background and skills. Thanks for visiting! 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhkeshari&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
 
 
 - 🔭 I’m currently working on Frontend & Backend
