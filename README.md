@@ -95,7 +95,7 @@ Connect with me on LinkedIn to learn more about my professional background and s
 
 <h2 align="left">⚡Activity Graph:</h2>
 
-<a href="https://github.com/ShubhKeshari"><img alt="Shubham Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhKeshari&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true"/></a>
+<a href="https://github.com/ShubhKeshari"><img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhKeshari&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/></a>
 <br> 
 
 
