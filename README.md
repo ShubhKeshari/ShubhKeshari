@@ -20,7 +20,7 @@ Connect with me on LinkedIn to learn more about my professional background and s
 
 - 🌱 I’m currently learning MERN stack
 
-- 👯 I’m looking to collaborate on <a href="www.linkedin.com/in/shubham0602" target="_blank">LinkedIn</a> & GitHub
+- 👯 I’m looking to collaborate on <a href="https://www.linkedin.com/in/shubham0602" target="_blank">LinkedIn</a> & GitHub
 
 - 📫 Reach me on shubh1999keshari@gmail.com
 
