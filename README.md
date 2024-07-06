@@ -26,7 +26,7 @@ Connect with me on LinkedIn to learn more about my professional background and s
 
 - 💬 Open for your suggestions
  
-- 📄 Download my <a href= "https://drive.google.com/file/d/1Ox_X0asQEwNQ9TX1wuSxrPZIVCuVlKpl/view?usp=drive_link" target="_target">Resume</a>
+- 📄 Download my <a href= "https://drive.google.com/file/d/10jMkOa615LN0h3n5YAIhOYZ4np_FnQZ_/view?usp=drive_link" target="_target">Resume</a>
 
 - 👨‍💻 Portfolio <a href="https://shubhamkeshari-portfolio.netlify.app/" target="_blank"> Portfolio</a>
 
