@@ -16,9 +16,7 @@ Connect with me on LinkedIn to learn more about my professional background and s
 
 
 
-- 🔭 I’m currently working on Frontend & Backend
-
-- 🌱 I’m currently learning MERN stack
+- 🔭 I’m currently working on Frontend & Backend.
 
 - 👯 I’m looking to collaborate on <a href="https://www.linkedin.com/in/shubham0602" target="_blank">LinkedIn</a> & GitHub
 
