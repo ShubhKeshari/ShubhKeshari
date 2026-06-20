@@ -19,7 +19,7 @@
 
 ## About Me
 
-Full Stack Developer with **1+ year of hands-on experience** designing and delivering web applications across the **MERN stack**. My work covers the complete development lifecycle — REST API design, JWT-based authentication, database modeling, and building responsive frontends with **React.js** that hold up across devices and real usage.
+Full Stack Developer with **1.5+ year of hands-on experience** designing and delivering web applications across the **MERN stack**. My work covers the complete development lifecycle — REST API design, JWT-based authentication, database modeling, and building responsive frontends with **React.js** that hold up across devices and real usage.
 
 I build with AI — using **Cursor, Antigravity, GitHub Copilot, and Claude** to move faster without cutting corners. Currently diving into **Agentic AI** and how AI agents can be wired into real-world software workflows. I've also solved **500+ DSA problems**, which keeps my problem-solving sharp and my code efficient.
 
