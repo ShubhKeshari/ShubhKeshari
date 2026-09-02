@@ -99,15 +99,8 @@ I build with AI — using **Cursor, Antigravity, GitHub Copilot, and Claude** to
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ShubhKeshari" alt="" /></a> </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShubhKeshari&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com?user=ShubhKeshari&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ShubhKeshari&hide_border=true&theme=react" alt="GitHub Streak"/>
-</div>
-
 <br/>
 
 <div align="center">
