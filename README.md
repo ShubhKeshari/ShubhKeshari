@@ -103,7 +103,6 @@ I build with AI — using **Cursor, Antigravity, GitHub Copilot, and Claude** to
 </div>
 
 <br/>
-
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ShubhKeshari&theme=react&border_radius=4.6&show_icons=true&count_private=true&hide_border=true" alt="Top Languages"/>
 </div>
@@ -111,4 +110,5 @@ I build with AI — using **Cursor, Antigravity, GitHub Copilot, and Claude** to
 <h2 align="left">⚡ Activity Graph:</h2>
 
 <a href="https://github.com/ShubhKeshari"><img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhKeshari&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/></a>
+
 <br>
