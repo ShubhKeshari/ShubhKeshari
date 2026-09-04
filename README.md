@@ -108,8 +108,11 @@ I build with AI — using **Cursor, Antigravity, GitHub Copilot, and Claude** to
 </div>
 
 <h2 align="left">⚡ Activity Graph:</h2>
-
-<a href="https://github.com/ShubhKeshari"><img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhKeshari&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/></a>
-
+<a href="https://github.com/ShubhKeshari">
+  <img
+    src="https://github-readme-activity-graph-sage-kappa.vercel.app/graph?username=ShubhKeshari&theme=react-dark&bg_color=20232a&hide_border=true"
+    width="100%"
+  />
+</a>
 
 <br>
